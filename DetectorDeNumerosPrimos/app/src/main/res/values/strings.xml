@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DetectorDeNumerosPrimos</string>
+    <string name="text_comprobar">Comprobar</string>
+    <string name="text_reiniciar">Reiniciar</string>
+    <string name="text_introducir"> Introduce un numero primo</string>
+    <string name="text_noEs"> No es un numero primo</string>
+    <string name="text_es"> Es un numero primo</string>
+    <string name="text_tuNumero">Tu numero</string>
+</resources>
