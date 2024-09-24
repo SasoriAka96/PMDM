@@ -5,10 +5,9 @@
     <string name="fallout">Fallout 4</string>
     <string name="lol">League of Legends</string>
     <string name="fortnite">Fortnite</string>
-    <string name="tf2">Team Fortress 2</string>
+    <string name="tf2"> eam Fortress 2</string>
     <string name="te_gusta">¿Te gusta la encuesta?</string>
-    <string name="te_gusta_fallout">Veo que te gusta el fallout</string>
-    <string name="te_gusta_fortnite">Veo que te gusta el fortnite</string>
-    <string name="te_gusta_tf2">Veo que te gusta el Team Fortress</string>
-    <string name="te_gusta_lol">Veo que te gusta el Lol</string>
+    <string name="te_gusta_el">Veo que te gusta el</string>
+    <string name="ckbx_mola">¡Sí que te molan!</string>
+    <string name="ckbx_noMola">¡¿No te molan?!</string>
 </resources>
