@@ -3,4 +3,6 @@
     <string name="llamar_walter">Pulsa para llamar a Walter white</string>
     <string name="llamando">LLamando a Walter White</string>
     <string name="llamada_terminada">Llamada terminada</string>
+    <string name="image1">Llamar</string>
+    <string name="imageDescription">Imagen de walter</string>
 </resources>
